@@ -1,0 +1,76 @@
+@charset 'UTF-8';
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #1F5EAF;
+    margin: 0%;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    background-color: hsl(0, 0%, 100%);
+    padding: 15px 25px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+
+input {
+  text-align: center;
+    align-items: center;
+    height: 20px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    text-align: center;
+    border: #000000 solid 1px;
+}
+
+label {
+    text-align: center;
+    font-size: 15px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #1F5EAF;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border-color: #000000 2px solid;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* centraliza na horizontal */
+  gap: 20px; /* espaçamento entre o formulário e o resultado */
+  padding: 20px;
+}
+
+.formulario {
+  background-color: #b2ebf2;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+#resultado {
+  display: none;
+  background-color: #f8f8f8;
+  padding: 16px;
+  border-radius: 10px;
+  margin-top: 15px;
+  font-size: 10px;
+  font-weight: 500;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+  text-align: center;
+  max-width: 300px;
+}
