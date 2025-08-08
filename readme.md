@@ -28,3 +28,5 @@ Menor que 18,5	Abaixo do peso
 40,0 ou mais	Obesidade grau III
 
 ## 🖼 Prévia do Projeto
+
+![Resultado da Calculadora de IMC](https://github.com/Willrdev/calculadora_imc/blob/main/imagens/resultado.png?raw=true)
