@@ -5,10 +5,10 @@ O objetivo é permitir que o usuário insira peso e altura e receba instantaneam
 ## 🚀 Funcionalidades
 Inserir peso (em kg) e altura (em metros)
 
-- Calcular automaticamente o IMC
-- Mostrar a classificação de acordo com a OMS
-- Interface simples e responsiva
-- Cores e design amigáveis para fácil visualização
+→ Calcular automaticamente o IMC
+→ Mostrar a classificação de acordo com a OMS
+→ Interface simples e responsiva
+→ Cores e design amigáveis para fácil visualização
 
 ## 📚 Tecnologias Utilizadas
 
